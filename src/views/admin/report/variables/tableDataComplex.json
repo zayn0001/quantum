@@ -1,0 +1,50 @@
+[
+  {
+    "name":"  KL63D5908",
+    "status": "ASSIGNED",
+    "date": "18 Apr 2022",
+    "progress": 100.0  
+  },
+  {
+    "name":"KL41D5672",
+    "status": "ASSIGNED",
+    "date": "18 Apr 2022",
+    "progress": 25.5  
+  },
+  {
+    "name":"KL17F9833",
+    "status": "NOT ASSIGNED",
+    "date": "20 May 2021",
+    "progress": 0.0 
+  },
+  {
+    "name":"KL13K7632",
+    "status": "ASSIGNED",
+    "date": "12 Jul 2021",
+    "progress": 50.5  
+  },
+  {
+    "name":"KL07O2387",
+    "status": "NOT ASSIGNED",
+    "date": "12 Jul 2021",
+    "progress": 0.0  
+  },
+  {
+    "name":"KL01P9723",
+    "status": "ASSIGNED",
+    "date": "20 May 2021",
+    "progress": 10.0  
+  },
+  {
+    "name":"KL16K3232",
+    "status": "ASSIGNED",
+    "date": "12 Jul 2021",
+    "progress": 43.5  
+  },
+  {
+    "name":"KL17O2347",
+    "status": "NOT ASSIGNED",
+    "date": "12 Jul 2021",
+    "progress": 0.0  
+  }
+]

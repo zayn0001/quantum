@@ -1,0 +1,50 @@
+[
+  {
+    "name":"  BIN1",
+    "status": "PICKED",
+    "date": "PKA NAGAR ",
+    "progress": 100.0  
+  },
+  {
+    "name":"BIN2",
+    "status": "ON THE WAY",
+    "date": "CUSAT",
+    "progress": 25.5  
+  },
+  {
+    "name":"BIN3",
+    "status": "ON THE WAY",
+    "date": "KAKKANAD",
+    "progress": 0  
+  },
+  {
+    "name":"BIN4",
+    "status": "ON THE WAY",
+    "date": "PALARIVATTOM",
+    "progress": 50.5  
+  },
+  {
+    "name":"BIN5",
+    "status": "ON THE WAY",
+    "date": "KALAMASSERY",
+    "progress": 70.5  
+  },
+  {
+    "name":"BIN6",
+    "status": "PICKED",
+    "date": "EDAPALLY",
+    "progress": 100.0  
+  },
+  {
+    "name":"BIN7",
+    "status": "ON THE WAY",
+    "date": "MUTTOM",
+    "progress": 25.5  
+  },
+  {
+    "name":"BIN8",
+    "status": "PICKED",
+    "date": "PULINCHODU",
+    "progress": 100.0  
+  }
+]
